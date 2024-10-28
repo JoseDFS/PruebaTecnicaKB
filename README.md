@@ -1,18 +1,26 @@
-# prueba_tecnica_kb
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # PruebaTecnicaKB
+
 Prueba tecnica postulacion Kibernum
+
+## Ejecución de la Aplicación
+
+Para ejecutar la aplicación, sigue estos pasos:
+
+1. Tener instalado Flutter. Puedes seguir las instrucciones en la [documentación de Flutter](https://docs.flutter.dev/get-started/install). **Version 3.22.2**
+2. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
+3. Navega al directorio del proyecto:
+   ```bash
+   cd prueba_tecnica_kb
+   ```
+4. Instala las dependencias del proyecto:
+   ```bash
+   flutter pub get
+   ```
+5. Tener un emulador o un dispositivo físico conectado para ver la aplicación en funcionamiento.
+6. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
